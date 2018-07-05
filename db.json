@@ -2,7 +2,7 @@
 	"result":  "success",            
 	"quota":[  
 	{
-	"username":¡¨chantaiman@abc.com",
+	"username":"chantaiman@abc.com",
 	"projectID":"12345678",
 	"quotaValue":"0",
 	"quotaStatus":"Suspend",
@@ -11,7 +11,7 @@
 	"expiryDate":"2018-09-30  23:59:59",
 	"remark","Not  received  subscription"
 	},  {
-	"username":¡¨chantaimanQ@abc.com",
+	"username":"chantaimanQ@abc.com",
 	"projectID":"12345678Q",
 	"quotaValue":"10",
 	"quotaStatus":"SuspendQ",
