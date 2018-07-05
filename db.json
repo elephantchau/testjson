@@ -6,19 +6,19 @@
 	"projectID":"12345678",
 	"quotaValue":"0",
 	"quotaStatus":"Suspend",
-	"quotaType","By  Project",
+	"quotaType":"By  Project",
 	"lastUpdateDate":"2018-06-24",
 	"expiryDate":"2018-09-30  23:59:59",
-	"remark","Not  received  subscription"
+	"remark":"Not  received  subscription"
 	},  {
 	"username":"chantaimanQ@abc.com",
 	"projectID":"12345678Q",
 	"quotaValue":"10",
 	"quotaStatus":"SuspendQ",
-	"quotaType","By  ProjectQ",
+	"quotaType":"By  ProjectQ",
 	"lastUpdateDate":"2018-06-25",
 	"expiryDate":"2018-02-30  23:59:59",
-	"remark","Not  received  subscriptionQ"
+	"remark":"Not  received  subscriptionQ"
 	}
 	]
 }
